@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "gordon.leek"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "gordon.leek"
+        }
+    }
+}

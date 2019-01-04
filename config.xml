@@ -60,7 +60,7 @@
         <splash density="port-xxhdpi" src="www/res/screen/android/splash-port-xxhdpi.png" />
         <splash density="port-xxxhdpi" src="www/res/screen/android/splash-port-xxxhdpi.png" />
     
-        <splash src="www/splash.png">
+        <splash src="splash.png" />
     
     </platform>
     <!--<platform name="ios">

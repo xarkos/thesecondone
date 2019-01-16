@@ -81,6 +81,12 @@
         },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "gordon.leek"
         }
     },
     "dependent_plugins": {},
@@ -687,6 +693,14 @@
                 "navigator.notification",
                 "navigator"
             ]
+        },
+        {
+            "file": "plugins/cordova-plugin-admobpro/www/AdMob.js",
+            "id": "cordova-plugin-admobpro.AdMob",
+            "pluginId": "cordova-plugin-admobpro",
+            "clobbers": [
+                "window.AdMob"
+            ]
         }
     ],
     "plugin_metadata": {
@@ -709,6 +723,8 @@
         "cordova-plugin-splashscreen": "3.2.2",
         "cordova-plugin-statusbar": "2.1.3",
         "cordova-plugin-vibration": "2.1.6",
-        "cordova-plugin-whitelist": "1.2.2"
+        "cordova-plugin-whitelist": "1.2.2",
+        "cordova-plugin-extension": "1.5.4",
+        "cordova-plugin-admobpro": "2.37.1"
     }
 }

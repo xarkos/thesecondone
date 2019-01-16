@@ -1,3 +1,4 @@
+
 function adSetter(){
 alert(navigator.userAgent);
 var admobid = {};
@@ -18,6 +19,7 @@ var admobid = {};
             interstitial: 'ca-app-pub-3940256099942544/1033173712'
         };
     }
+
 if(AdMob) AdMob.createBanner( {
     isTesting:true, //Remove this Before publishing your app
     adId:admobid.banner, 
@@ -35,7 +37,12 @@ function onDeviceReady(){
 }
 
 
-
-window.load=function(){
+//window.load=function(){
+// alert("Kend Dod with a beer gut");   
  document.addEventListener("deviceready", onDeviceReady, false);
-}
+//}
+
+
+
+
+

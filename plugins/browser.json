@@ -63,10 +63,16 @@
         },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "gordon.leek"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-file": {
+            "PACKAGE_NAME": "gordon.leek"
+        },
+        "cordova-plugin-extension": {
             "PACKAGE_NAME": "gordon.leek"
         }
     }

@@ -15,7 +15,7 @@
     <prefernce name="phonegap-version" value="cli-7.1.0" />
 
     <plugin name="cordova-plugin-admobpro" source="npm">
-        <variable name="PLAY_SERVICES_VERSION" value="16.0.0" />S
+        <variable name="PLAY_SERVICES_VERSION" value="11.8.0" />
     </plugin>
 
     <!--<plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
